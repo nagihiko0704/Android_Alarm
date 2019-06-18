@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "690662118269",
+    "firebase_url": "https://alarm-462d3.firebaseio.com",
+    "project_id": "alarm-462d3",
+    "storage_bucket": "alarm-462d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690662118269:android:28455fcf177c6e33",
+        "android_client_info": {
+          "package_name": "com.example.cloudmessage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "690662118269-k1mh4pk2okipocibc0sojpmk3fjbg1rf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJSpwaftrlUQs0A4Po4IEZbYmBH3bxFqk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "690662118269-k1mh4pk2okipocibc0sojpmk3fjbg1rf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
